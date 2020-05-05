@@ -19,13 +19,13 @@ To install this package into a project:
 1.  Download GraphQL Client Framework for Github
 
     ```  
-    git clone https://bitbucket.org/Jalomo1197/alexis_jalomo_project/
+    git clone  https://github.com/Jalomo1197/ClientGitHubGraphQL.git
     ```
 	
 2. Navigate to the project root folder  
 
     ```
-    cd alexis_jalomo_project/  
+    cd ClientGitHubGraphQL/  
     ```
     
 3. Execute these commands on the command line:
@@ -43,7 +43,7 @@ To install this package into a project:
 5. Under the Project Settings tab, select Libraries. Select Add under Standard Library  
 ![](./screenshots/2.png)
 
-6. Navigate to `./alexis_jalomo_project/target/scala-2.13/` and select `githubrepoapi_2.13-0.1.jar`  
+6. Navigate to `./ClientGitHubGraphQL/target/scala-2.13/` and select `githubrepoapi_2.13-0.1.jar`  
 ![](./screenshots/3.png)  
 Apply the changes. The package will now be usable within the user's project.
 
