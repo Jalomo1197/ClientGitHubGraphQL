@@ -53,7 +53,7 @@ Apply the changes. The package will now be usable within the user's project.
 
 #### Configuration
 
-Place your [GitHub access token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) in the configuration file loacted here: `./alexis_jalomo_project/src/main/resources/lightbend.conf` 
+Place your [GitHub access token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) in the configuration file loacted here: `./ClientGitHubGraphQL/src/main/resources/lightbend.conf` 
 
     githubAPI {
      key = "your github access token here"
