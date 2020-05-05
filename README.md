@@ -1,8 +1,4 @@
 # GraphQL Client Framework for GitHub
-Wisam Abunimeh  
-Alex Jalomo  
-Jacob Sanchez  
-CS474, Spring 2020
 
 ## Description  
 This project is a pure functional object-oriented design framework for composing and executing external GraphQL commands from Scala client programs. The framework obtains and processes the results of these executions. Results are processed by extracting and organizing git repository data, in relation to the GitHub developer schema, via a lightweight JSON parser.
