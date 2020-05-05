@@ -251,12 +251,12 @@ Filter to obtain all repositories that were created after a specified day:
 To execute the unit tests from the command line, execute the following commands:  
 
 ```
-cd alexis_jalomo_project/  
+cd ClientGitHubGraphQL/  
 sbt clean
 sbt compile
 sbt test
 ```
-Once the tests has completed, the testing report appears here:  `./alexis_jalomo_project/target/test-reports/index.html` 
+Once the tests has completed, the testing report appears here:  `./ClientGitHubGraphQL/target/test-reports/index.html` 
 
 ## Limitations
 
@@ -271,7 +271,7 @@ Individual calls cannot request more than 500,000 Nodes
 GraphQL API v4 rate limit is 5,000 points per hour
 
 ## Logging
-Log files can be found in the ./alexis_jalomo_projec/Logs directory. Log files follow the log-YYYY-MM-DD.log naming format.
+Log files can be found in the ./ClientGitHubGraphQL/Logs directory. Log files follow the log-YYYY-MM-DD.log naming format.
 
 ## Open Source Tools
 The following open source tools and their documentation were used for this project:  
