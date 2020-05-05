@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/alexisjalomo1197/Desktop/Github_Repos/CourseProject/build.sbt","9b381728c6e23625095ee2b00a38edebfb415f26"]],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/alexisjalomo1197/Desktop/Github_Repos/ClientGitHubGraphQL/build.sbt","079abde928969b1d3bf6bf0ec928987a8dc73205"]],"lastModifiedTimes":[]}]
